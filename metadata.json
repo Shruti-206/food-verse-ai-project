@@ -1,0 +1,6 @@
+{
+  "name": "Food Verse AI",
+  "description": "Multimodal food intelligence platform featuring visual dish identification, macro/micronutrient estimation, smart fridge scan recipe generator, food safety audits, and chef voice guidance powered by Gemini.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
